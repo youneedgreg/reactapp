@@ -359,7 +359,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 20vh;
+  height: 10vh;
   padding: 20px;
   overflow: hidden; /* Prevents scrollbar due to animation */
   background: linear-gradient(-45deg, #ff0000, #ff7f7f, #ff4d4d, #ff1a1a);
@@ -1390,7 +1390,7 @@ body {
 
 }
 .carousel{
-  height: 100vh;
+  height: 80vh;
   margin-top: -50px;
   width: 100vw;
   overflow: hidden;

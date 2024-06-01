@@ -1,4 +1,3 @@
-import Header from './components/Header';
 import Navbar from './components/Navbar';
 import Offer from './components/offer';
 import Blog from './components/Blog';
@@ -15,7 +14,6 @@ import './App.css';
 function App() {
   return (
     <div className="App"> 
-      <Header/>
       <Navbar/>
       <IntroSection/>
       <Empty/>
